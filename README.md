@@ -4,8 +4,7 @@ This repository is created to host 3D models created by me. The content can be u
 Этот репозиторий создан для размещения 3Д моделей созданных мной. Контент можно использовать в образовательных целях, для личного и коммерческого использования. 
 Для связи с автором по вопросам сотрудничества или заказа используйте мессенджеры или электронную почту.
 
-Электронная почта: shirokovClever@yandex.ru
-                   shirokovClever@gmail.com
+Электронная почта: <br>shirokovClever@yandex.ru<br> <br>shirokovClever@gmail.com<br>
 
 Телеграм: @YarpinZigren12
 
@@ -13,8 +12,7 @@ This repository is created to host 3D models created by me. The content can be u
 This repository was created to host 3D models created by me. The content can be used for educational purposes, for personal and commercial use.
 To contact the author on cooperation or ordering, use instant messengers or email.
 
-Email: shirokovClever@yandex.ru
-       shirokovClever@gmail.com
+Email: <br>shirokovClever@yandex.ru<br> <br>shirokovClever@gmail.com<br>
 
 Telegram: @YarpinZigren12
 
